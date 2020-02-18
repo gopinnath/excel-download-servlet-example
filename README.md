@@ -47,7 +47,7 @@ Following code in the Servlet class sends the response header to browser that gi
 
 # H2 Database
 
-Following are the basic default configuration that is needed for H2 Database to work in-memory and goes into "application.properties":
+Following are the basic default configuration that is needed for H2 Database to work in-memory and goes into *"application.properties"*:
 
 ```
 spring.datasource.url=jdbc:h2:mem:testdb
